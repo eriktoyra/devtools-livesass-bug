@@ -1,0 +1,6 @@
+{
+  "name": "chromium-devtools-livesass-bug",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+}
