@@ -34,5 +34,3 @@ SourceMap is misaligned: right != #{$opposite-direction}
 compiled: http://localhost/livesass-bug/css/app.css:1:16193
 source: http://localhost/livesass-bug/bower_components/foundation/scss/foundation/components/_alert-boxes.scss:86:3
 ``
-
-
