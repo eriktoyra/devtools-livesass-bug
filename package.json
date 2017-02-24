@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zurb/foundation-libsass-template.git"
+    "url": "https://github.com/eriktoyra/devtools-livesass-bug.git"
   },
   "devDependencies": {
     "node-sass": "3.3.3",
