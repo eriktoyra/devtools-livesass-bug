@@ -1,6 +1,6 @@
-# LiveSASS + Zurb Foundation 5.5.3 sample bug
+# LiveSASS fails to start when using Zurb Foundation 5.5.3 SASS 
 
-This project recreates the bug reported in [Chromium DevTools LiveSASS #695056](https://bugs.chromium.org/p/chromium/issues/detail?id=695056).
+This project reproduces the bug reported in [Chromium DevTools LiveSASS #695056](https://bugs.chromium.org/p/chromium/issues/detail?id=695056).
 Template based on [Foundation libsass template](http://foundation.zurb.com/sites/docs/v/5.5.3/sass.html#cli).
 
 ## Requirements
